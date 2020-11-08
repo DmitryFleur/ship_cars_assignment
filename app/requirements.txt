@@ -1,0 +1,5 @@
+decorator==4.4.2
+six==1.15.0
+validators==0.18.1
+psycopg2==2.8.6
+aiohttp==3.7.2
